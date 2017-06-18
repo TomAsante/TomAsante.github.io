@@ -10367,6 +10367,7 @@ h2.pmd-card-title-text {
 @media (max-width: 767px) {
   .pmd-navbar .navbar-header {
     padding: 0 8px;
+    z-index: 998;
   }
   .pmd-navbar.navbar-fixed-top, .pmd-navbar.navbar-fixed-bottom {
     z-index: 998;
