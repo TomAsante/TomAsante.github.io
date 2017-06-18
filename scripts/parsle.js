@@ -4,6 +4,6 @@ jQuery(function($){
     $successMsg = $('.alert');
 
     $form.parsley();
-    });
+    
 
 });
