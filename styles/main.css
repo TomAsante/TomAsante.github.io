@@ -10366,6 +10366,7 @@ h2.pmd-card-title-text {
 /*Menu in right sidebar*/
 @media (max-width: 767px) {
   .pmd-navbar .navbar-header {
+    position: relative;
     padding: 0 8px;
     z-index: 998;
   }
